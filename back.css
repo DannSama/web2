@@ -1,0 +1,18 @@
+header{
+background-image: url(https://www.versacourt.com/cmss_files/imagelibrary/Header_Images/20-basketball-blue.jpg);
+width: 940px;
+height: 280px;
+display: flex;
+}
+#logo{
+    border-radius: 50%;
+    margin-top: 20px;
+    border: 5px solid white;
+    height: 150px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+}
