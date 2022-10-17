@@ -1,18 +1,58 @@
 header{
-background-image: url(https://www.versacourt.com/cmss_files/imagelibrary/Header_Images/20-basketball-blue.jpg);
-width: 940px;
-height: 280px;
-display: flex;
-}
-#logo{
-    border-radius: 50%;
-    margin-top: 20px;
-    border: 5px solid white;
-    height: 150px;
-    width: 150px;
-    margin-left: auto;
-    margin-right: auto;
-}
-h1{
+    background-image: url("pic/wall.jpg");
+    background-size: 940px 280px;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
     text-align: center;
-}
+  }
+  .ok{
+    border-radius: 360px;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    text-align: center;
+  }
+  nav{
+    text-align: center;
+    background-color: black;
+    height: 30px;
+    padding: auto;
+    width: 940px;
+    text-align: center;
+  }
+  a{                                                        
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+  }
+  .satuan{
+    background-color: orange;
+    height: 300px;
+    width: 200px;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+    float: left;
+  }
+  .athlete{
+    height: 100px;
+    width: 100px;
+    float: left;
+    padding: 5px;
+    margin: 5px;
+  }
+  button{
+
+    margin: 5px;
+  }
+  p, h2{
+    font-family: sans-serif;
+    color: black;
+
+  }
